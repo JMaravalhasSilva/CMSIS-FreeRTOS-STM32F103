@@ -1,4 +1,4 @@
-# CMSIS-FreeRTOS-STM32F103-
+# CMSIS-FreeRTOS-STM32F103
 
 Hello there random visitor.
 
