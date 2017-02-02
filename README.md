@@ -5,3 +5,5 @@ Hello there random visitor.
 Here you will find a project made for SOTER (Sistemas Operativos em Tempo Real), a course that I had in my master's degree at ISEP (Instituto Superior de Engenharia do Porto) about real time operating systems using the Nucleo F103RB board with a custom made PCB that fits into the provided connectors.
 
 In the SOTER folder you can find the code that was developed using the System Workbench for STM32. The code uses exclusively CMSIS and FreeRTOS.
+
+In the presentation folder you will find a small .ppt slide-show that shows key parts of the code and how to get a project without the standard library/HAL stuff. You can also download a pdf version, although the small video showcasing the Pong game obviously won't work.
