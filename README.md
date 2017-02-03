@@ -14,7 +14,7 @@ In the Custom Schematic Board folder, you will find a .pdf schematic of the "shi
 
 All task stacks were chosen based on their watermark. If the watermark went below 50 bytes, we would increase the stack.
 
-The LCD driver was ported from a Adafruit library by a teacher, and then ported by me to use CMSIS registers, so it doesn't have any useful comments or explanations about how it works. I've only added a small filled circle print function shamelessly stolen from stack overflow. Full credits are given in the comments.
+The LCD driver was ported from a Adafruit library by a teacher, and then ported by me to use CMSIS registers, so it doesn't have any useful comments or explanations about how it works. I've only added a small filled circle print function shamelessly "stolen" from stack overflow. Full credits are given in the comments.
 
 The project is distributed under the Mozilla Public License Version 2.0.
 This means that you are free to use, modify and even sell any part of the code available in here, as long as you fully disclose your source code and keep the same license.
