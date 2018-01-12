@@ -225,7 +225,7 @@ void initLowLevel(UBaseType_t RXQueueSize,UBaseType_t TXQueueSize,uint32_t USART
 	//Enable acknowledge
 	I2C2->CR1 |= I2C_CR1_ACK;
 
-	//Configure Own address to 0 and keep bit 14 at 1 as specified in page 781 (RM0008)
+	//Configure Own address to 0 and keep bit 14 at 1 as specified in page 777 (RM0008)
 	I2C2->OAR1 |= (1<<14);
 
 
