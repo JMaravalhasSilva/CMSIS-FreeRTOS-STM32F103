@@ -18,9 +18,3 @@ The LCD driver was ported from a Adafruit library by a teacher, and then ported 
 
 The project is distributed under the Mozilla Public License Version 2.0.
 This means that you are free to use, modify and even sell any part of the code available in here, as long as you fully disclose your source code and keep the same license.
-
-This project was made in colaboration with my colleague Daniel Freire.
-
-My name is Jose Silva and if you have any questions regarding the code in this repository you can contact me at:
-
-1130352 at isep.ipp.pt
